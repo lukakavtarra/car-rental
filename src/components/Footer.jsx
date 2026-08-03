@@ -14,7 +14,7 @@ function Footer() {
                 <Car size={22} />
               </div>
               <div>
-                Name<span className="navbar-brand-accent">.</span>
+                AURUM<span className="navbar-brand-accent">.</span>
               </div>
               <span className="navbar-badge-georgia">Georgia</span>
             </Link>
@@ -97,7 +97,7 @@ function Footer() {
             </div>
             <div className="footer-contact-item">
               <Mail size={18} className="icon" />
-              <a href="mailto:name.carrent@gmail.com">name.carrent@gmail.com</a>
+              <a href="mailto:aurum.carrent@gmail.com">aurum.carrent@gmail.com</a>
             </div>
             <div style={{ marginTop: '16px' }}>
               <Link to="/contact" className="btn btn-outline" style={{ width: '100%', padding: '10px' }}>
@@ -109,7 +109,7 @@ function Footer() {
 
         {/* Footer Bottom Bar */}
         <div className="footer-bottom">
-          <p>© {new Date().getFullYear()} Name Georgia. Luxury & Exotic Car Rental Tbilisi. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} AURUM Georgia. Luxury & Exotic Car Rental Tbilisi. All rights reserved.</p>
           <div className="footer-bottom-links">
             <Link to="/privacy-policy">Privacy Policy</Link>
             <Link to="/contact">Support</Link>
