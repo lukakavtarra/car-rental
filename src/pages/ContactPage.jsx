@@ -38,7 +38,7 @@ function ContactPage() {
         <div className="contact-hero" style={{ textAlign: 'center' }}>
           <span className="badge badge-silver">VIP Support & Reservations</span>
           <h1 className="section-title" style={{ marginTop: '14px', fontSize: '3rem' }}>
-            Contact <span>JOCAR</span> Georgia
+            Contact <span>AURUM</span> Georgia
           </h1>
           <p className="section-subtitle" style={{ margin: '0 auto' }}>
             Have a question about our luxury fleet, custom airport delivery, or long-term VIP leasing in Tbilisi? Our concierge team is at your service.
@@ -186,7 +186,7 @@ function ContactPage() {
                 Tbilisi Head Office
               </span>
               <h3 style={{ fontSize: '1.6rem', marginBottom: '6px' }}>
-                JOCAR Georgia Location
+                AURUM Georgia Location
               </h3>
               <p style={{ color: 'var(--text-muted)', fontSize: '0.94rem' }}>
                 Visit our VIP showroom parking or schedule terminal delivery at Tbilisi International Airport.
@@ -248,7 +248,7 @@ function ContactPage() {
                     Email Reservations
                   </div>
                   <div style={{ color: 'var(--text-muted)', fontSize: '0.94rem' }}>
-                    <a href="mailto:jocar.carrent@gmail.com">jocar.carrent@gmail.com</a>
+                    <a href="mailto:aurum.carrent@gmail.com">aurum.carrent@gmail.com</a>
                   </div>
                 </div>
               </div>

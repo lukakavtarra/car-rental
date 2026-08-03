@@ -15,7 +15,7 @@ function PrivacyPolicyPage() {
             Privacy Policy & <span>Rental Terms</span>
           </h1>
           <p className="section-subtitle" style={{ margin: '0 auto' }}>
-            JOCAR Georgia is committed to protecting your personal data, ensuring complete VIP confidentiality, and maintaining transparent rental conditions.
+            AURUM Georgia is committed to protecting your personal data, ensuring complete VIP confidentiality, and maintaining transparent rental conditions.
           </p>
         </div>
 
@@ -25,7 +25,7 @@ function PrivacyPolicyPage() {
           <section className="policy-section">
             <h2>1. Collection and Use of Personal Information</h2>
             <p>
-              When you reserve a luxury or exotic vehicle with JOCAR Georgia, we collect necessary identification documents to verify your eligibility for VIP vehicle leasing under Georgian law:
+              When you reserve a luxury or exotic vehicle with AURUM Georgia, we collect necessary identification documents to verify your eligibility for VIP vehicle leasing under Georgian law:
             </p>
             <ul>
               <li><strong>Identification Documents:</strong> Full legal name, valid Passport copy, and International or National Driver's License.</li>
@@ -45,7 +45,7 @@ function PrivacyPolicyPage() {
             </p>
             <ul>
               <li><strong>Insurance Coverage:</strong> Protects against third-party liability, collision damage, and natural events, subject to standard Georgian police accident reporting.</li>
-              <li><strong>Territorial Limits:</strong> Our vehicles are authorized for travel within the official borders of Georgia. Cross-border travel requires prior written authorization from JOCAR Georgia management.</li>
+              <li><strong>Territorial Limits:</strong> Our vehicles are authorized for travel within the official borders of Georgia. Cross-border travel requires prior written authorization from AURUM Georgia management.</li>
               <li><strong>Driver Requirements:</strong> Drivers must hold a valid driver's license for a minimum of 2 years and meet age qualifications (21+ for executive sedans, 23+ for supercars and V12 models).</li>
             </ul>
           </section>
@@ -54,7 +54,7 @@ function PrivacyPolicyPage() {
           <section className="policy-section">
             <h2>3. Security Deposits & Currency Exchange</h2>
             <p>
-              JOCAR Georgia operates with transparent pricing and zero hidden charges:
+              AURUM Georgia operates with transparent pricing and zero hidden charges:
             </p>
             <ul>
               <li><strong>No-Deposit Options:</strong> Verified returning clients and corporate bookings enjoy zero-security-deposit privileges.</li>
@@ -80,7 +80,7 @@ function PrivacyPolicyPage() {
             <div style={{ display: 'flex', gap: '24px', flexWrap: 'wrap', marginTop: '16px' }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#FFFFFF', fontWeight: 600 }}>
                 <Mail size={18} color="var(--accent-silver)" />
-                <a href="mailto:jocar.carrent@gmail.com">jocar.carrent@gmail.com</a>
+                <a href="mailto:aurum.carrent@gmail.com">aurum.carrent@gmail.com</a>
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#FFFFFF', fontWeight: 600 }}>
                 <Phone size={18} color="var(--accent-silver)" />
@@ -88,7 +88,7 @@ function PrivacyPolicyPage() {
               </div>
             </div>
             <p style={{ marginTop: '16px', fontSize: '0.85rem', color: 'var(--text-dim)' }}>
-              Last Updated: August 2026 • JOCAR Georgia, Rike Park, Tbilisi, Georgia.
+              Last Updated: August 2026 • AURUM Georgia, Rike Park, Tbilisi, Georgia.
             </p>
           </section>
         </div>

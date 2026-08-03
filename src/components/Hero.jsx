@@ -16,7 +16,7 @@ function Hero({ filters, onFilterChange, onResetFilters, currencySymbol }) {
         <div className="hero-content animate-fade">
           <div className="hero-badge">
             <Sparkles size={14} />
-            <span>Name • RENT A CAR IN TBILISI, GEORGIA</span>
+            <span>AURUM • RENT A CAR IN TBILISI, GEORGIA</span>
           </div>
 
           <h1 className="hero-title">
