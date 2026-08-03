@@ -30,7 +30,7 @@ function Navbar({ currency, onCurrencyChange }) {
             <Car size={22} />
           </div>
           <div>
-            NAME<span className="navbar-brand-accent">.</span>
+            AURUM<span className="navbar-brand-accent">.</span>
           </div>
           <span className="navbar-badge-georgia">Georgia</span>
         </Link>
