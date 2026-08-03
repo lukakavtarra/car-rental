@@ -10,6 +10,12 @@
     "description": "The Lamborghini Urus SE 2024 is the ultimate expression of Italian luxury and ferocious SUV performance. Combining a 4.0L Twin-Turbo V8 with state-of-the-art hybrid electrification, it delivers unmatched acceleration and adrenaline on Tbilisi roads. Features custom Nero Noctis black matte finish with bespoke silver #A8A9AD interior stitching, carbon ceramic brakes, 23-inch forged alloy wheels, and panoramic sunroof. Full VIP insurance and airport delivery at Tbilisi International Airport are included.",
     "category": "SUV",
     "image": "/images/urus.jpg",
+    "images": [
+      "/images/urus.jpg",
+      "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
     "specs": {
       "engine": "4.0L Twin-Turbo V8 Hybrid (800 HP)",
       "0to100": "3.3 sec",
@@ -31,6 +37,12 @@
     "description": "An absolute icon of power, prestige, and dominance. The Mercedes-AMG G63 Edition 55 stands out with its commanding boxy silhouette, signature side-exit AMG exhaust growl, and lavish Nappa leather cabin. Finished in deep Obsidian Black with metallic #A8A9AD silver styling elements, Burmester 3D Surround Sound, and massage seating. Ideal for VIP arrivals, weddings, and scenic tours across Georgia with uncompromising comfort and presence.",
     "category": "SUV",
     "image": "/images/g63.jpg",
+    "images": [
+      "/images/g63.jpg",
+      "https://images.unsplash.com/photo-1520031441872-265e4ff70366?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1618843479319-561726a79331?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+    ],
     "specs": {
       "engine": "4.0L V8 Biturbo (577 HP)",
       "0to100": "4.5 sec",
@@ -52,6 +64,12 @@
     "description": "The BMW M5 Competition seamlessly merges executive sedan refinement with supercar-slaying dynamics. Equipped with M xDrive all-wheel drive, carbon-fiber roof, and laser headlights, this Frozen Dark Black masterpiece commands respect on every boulevard in Tbilisi. Enjoy Bowers & Wilkins Diamond Audio, heated and ventilated M sport seats, and lightning-fast shifts.",
     "category": "Sedan",
     "image": "/images/m5.jpg",
+    "images": [
+      "/images/m5.jpg",
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=1200&q=80"
+    ],
     "specs": {
       "engine": "4.4L TwinPower Turbo V8 (617 HP)",
       "0to100": "3.2 sec",
@@ -73,6 +91,12 @@
     "description": "The legendary super-wagon that needs no introduction. The Audi RS6 Avant Performance combines muscular wide-body fenders, quattro all-wheel drive grip, and immense cargo practicality without sacrificing an ounce of thrill. Finished in striking metallic silver grey #A8A9AD with high-gloss black optics and Valcona leather sport seats.",
     "category": "Sports",
     "image": "/images/rs6.jpg",
+    "images": [
+      "/images/rs6.jpg",
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1541348263662-e6686290956b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80"
+    ],
     "specs": {
       "engine": "4.0L TFSI Twin-Turbo V8 (621 HP)",
       "0to100": "3.4 sec",
@@ -94,6 +118,12 @@
     "description": "Born on the racetrack, unleashed in Georgia. The Porsche 911 GT3 RS features active aerodynamics, a screaming naturally aspirated 4.0L flat-six engine, and Weissach Package carbon accents. Designed for driving purists who demand razor-sharp precision, track-tuned suspension, and head-turning aerodynamic drama.",
     "category": "Sports",
     "image": "/images/urus.jpg",
+    "images": [
+      "/images/urus.jpg",
+      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=1200&q=80"
+    ],
     "specs": {
       "engine": "4.0L Naturally Aspirated Flat-6 (518 HP)",
       "0to100": "3.2 sec",
@@ -115,6 +145,12 @@
     "description": "The Range Rover Sport Autobiography P530 epitomizes British luxury and effortlessly smooth V8 refinement. Featuring a serene minimalist cabin with Semi-Aniline leather, noise-canceling headrests, and adaptive air suspension that glides over any terrain. Whether exploring Tbilisi or traveling to Kazbegi, travel in supreme comfort.",
     "category": "SUV",
     "image": "/images/g63.jpg",
+    "images": [
+      "/images/g63.jpg",
+      "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80"
+    ],
     "specs": {
       "engine": "4.4L Twin-Turbo V8 (523 HP)",
       "0to100": "4.3 sec",
@@ -136,6 +172,12 @@
     "description": "La Nuova Dolce Vita in Tbilisi. The Ferrari Roma is a timeless sculptural Grand Tourer that conceals a ferocious award-winning twin-turbo V8 under its elegant hood. Boasting a digital cockpit, manettino drive modes, and an intoxicating Italian exhaust note that makes every journey unforgettable.",
     "category": "Sports",
     "image": "/images/m5.jpg",
+    "images": [
+      "/images/m5.jpg",
+      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1592198084033-aade902d1aae?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=1200&q=80"
+    ],
     "specs": {
       "engine": "3.9L Twin-Turbo V8 (612 HP)",
       "0to100": "3.4 sec",
@@ -157,6 +199,12 @@
     "description": "The pinnacle of chauffeur-driven automotive majesty. The Mercedes-Maybach S680 Night Series is powered by a silky-smooth 6.0L V12 biturbo engine and features first-class rear executive recliner seats, champagne flutes, electric rear doors, and active road noise compensation. Unrivaled prestige for VIP dignitaries.",
     "category": "Luxury",
     "image": "/images/rs6.jpg",
+    "images": [
+      "/images/rs6.jpg",
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1618843479319-561726a79331?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+    ],
     "specs": {
       "engine": "6.0L V12 Biturbo (621 HP)",
       "0to100": "4.5 sec",

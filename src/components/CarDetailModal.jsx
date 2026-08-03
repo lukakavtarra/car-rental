@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import {
   X,
   Users,
@@ -12,10 +13,13 @@ import {
 import '../styles/CarDetailModal.css';
 
 function CarDetailModal({ car, onClose, onOpenBooking, currencySymbol, convertedPrice }) {
+  const [activeImgIndex, setActiveImgIndex] = useState(0);
+
   if (!car) return null;
 
   // Handles both sits and seats in case of different naming
   const seatCount = car.sits || car.seats || 5;
+  const gallery = car.images && car.images.length > 0 ? car.images : [car.image];
 
   return (
     <div className="modal-backdrop" onClick={onClose} role="dialog" aria-modal="true">
@@ -32,13 +36,30 @@ function CarDetailModal({ car, onClose, onOpenBooking, currencySymbol, converted
           <X size={22} />
         </button>
 
-        {/* Left: High-Res Car Photography */}
+        {/* Left: High-Res Car Photography & Gallery Thumbs */}
         <div className="car-detail-left">
           <img
-            src={car.image}
+            src={gallery[activeImgIndex] || car.image}
             alt={`${car.brand} ${car.model}`}
             className="car-detail-main-img"
           />
+
+          {gallery.length > 1 && (
+            <div className="car-detail-gallery-thumbs">
+              {gallery.map((imgUrl, index) => (
+                <button
+                  key={index}
+                  type="button"
+                  className={`gallery-thumb-btn ${index === activeImgIndex ? 'active' : ''}`}
+                  onClick={() => setActiveImgIndex(index)}
+                  aria-label={`View photo ${index + 1}`}
+                >
+                  <img src={imgUrl} alt={`${car.model} thumb ${index + 1}`} />
+                </button>
+              ))}
+            </div>
+          )}
+
           <div className="car-detail-img-overlay">
             <span className="badge badge-silver">VIP Fleet Tbilisi</span>
             <span style={{ color: '#FFFFFF', fontSize: '0.85rem', fontWeight: 600 }}>
