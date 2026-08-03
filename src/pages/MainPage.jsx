@@ -19,7 +19,7 @@ const FAQ_ITEMS = [
   {
     question: 'What is included in the rental price?',
     answer:
-      'All JOCAR Georgia rentals include 100% Comprehensive VIP Insurance, standard mileage allowance, 24/7 roadside assistance, and complimentary delivery to Tbilisi International Airport (TBS) or your hotel in Tbilisi.'
+      'All AURUM Georgia rentals include 100% Comprehensive VIP Insurance, standard mileage allowance, 24/7 roadside assistance, and complimentary delivery to Tbilisi International Airport (TBS) or your hotel in Tbilisi.'
   },
   {
     question: 'What documents are required to rent a luxury car in Georgia?',
@@ -149,7 +149,7 @@ function MainPage({ onOpenDetails, onOpenBooking, currency, currencySymbol }) {
       <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
         <div className="container">
           <div style={{ textAlign: 'center' }}>
-            <span className="badge badge-silver">Why Choose JOCAR</span>
+            <span className="badge badge-silver">Why Choose AURUM</span>
             <h2 className="section-title" style={{ marginTop: '14px' }}>
               The <span>VIP Georgia</span> Experience
             </h2>
@@ -238,7 +238,7 @@ function MainPage({ onOpenDetails, onOpenBooking, currency, currencySymbol }) {
                   <Star size={18} fill="#FACC15" />
                 </div>
                 <p className="testimonial-text">
-                  "The AMG G63 was the absolute highlight of our trip to Georgia. Unmatched presence on the roads of Tbilisi, and zero hidden deposits. Highly recommend JOCAR!"
+                  "The AMG G63 was the absolute highlight of our trip to Georgia. Unmatched presence on the roads of Tbilisi, and zero hidden deposits. Highly recommend AURUM!"
                 </p>
               </div>
               <div className="testimonial-author">
@@ -260,7 +260,7 @@ function MainPage({ onOpenDetails, onOpenBooking, currency, currencySymbol }) {
                   <Star size={18} fill="#FACC15" />
                 </div>
                 <p className="testimonial-text">
-                  "Seamless communication on WhatsApp from the moment we landed. The BMW M5 Competition was in flawless condition. We will definitely use JOCAR again on our next visit."
+                  "Seamless communication on WhatsApp from the moment we landed. The BMW M5 Competition was in flawless condition. We will definitely use AURUM again on our next visit."
                 </p>
               </div>
               <div className="testimonial-author">
