@@ -1,16 +1,31 @@
-# React + Vite
+# AURUM — Luxury & Exotic Car Rental in Tbilisi, Georgia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A state-of-the-art luxury car rental web application built with **React**, **Vite**, and **Vanilla CSS**, inspired by modern luxury automotive interfaces. Features a dark aesthetics theme (`#050507` and `#A8A9AD` silver accents), multi-page routing, internal JSON car fleet data, and an interactive image gallery.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Exotic Fleet Catalog**: Hand-picked supercars and executive SUVs (Lamborghini Urus SE, Mercedes-AMG G63, BMW M5, Audi RS6, Porsche 911 GT3 RS, Range Rover Sport, Ferrari Roma, and Mercedes-Maybach S680).
+- **Interactive Multi-Photo Gallery**: Inspect every vehicle from multiple angles (exterior, cockpit, profile) in the high-resolution inspection modal.
+- **Dynamic Pricing & Currencies**: Switch live between **USD ($)**, **EUR (€)**, and **GEL (₾)**.
+- **Multi-Page Navigation**: Includes Main Showroom, Contact & Reservations, and Privacy Policy.
+- **24/7 Airport Delivery & VIP CASCO Insurance**: Comprehensive coverage with zero-deposit options.
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Install dependencies:
+   ```powershell
+   npm install
+   ```
 
-## Expanding the ESLint configuration
+2. Start the development server:
+   ```powershell
+   npm run dev
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Build for production:
+   ```powershell
+   npm run build
+   ```
+
+## License
+© 2026 AURUM Georgia. All rights reserved.
